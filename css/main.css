@@ -1,0 +1,246 @@
+/*
+ * Estilos de tu proyecto
+ */
+ *{
+   margin: 0;
+   padding:0;
+ }
+ body{
+font-family: 'Merienda One', cursive;
+ }
+
+ .text-uppercase{
+  text-transform: uppercase;
+ }
+
+ /*dando estilos al header*/
+
+ header{
+    
+    background-color: #000;
+    height: 80px;
+    /* outline: 2px solid red;*/
+ }
+
+h3{
+
+  /*outline: 1px solid yellow;*/
+  display: inline-block;
+
+  color: #F8F3F1;
+  height: 50px;
+  padding-left:10rem;
+  padding-top: 30px;
+  width: 60%;
+
+}
+header nav{
+  display: inline-block;
+
+}
+header li{
+
+  display: inline-block;
+
+}
+
+
+ul li{
+  /*outline: 2px solid green ;*/
+  display: inline-block;
+  margin-left: 0px;
+  text-decoration: none;
+  color:#FAF6F4;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+/*dando estilos al body*/
+
+.found{
+  display: inline-block;
+/*  outline: 2px solid red;*/
+  background-color:rgb(95,196,164);
+  width: 100%;
+  padding-bottom: 2%;
+
+
+}
+
+img{
+  /*outline: 2px solid green;*/
+  margin-left:550px;
+  margin-top: 100px;
+}
+
+.titulo{
+  outline: 1px solid blue;
+  text-transform: uppercase;
+  background-color:rgb(95,196,164);
+  color:#F3F9F7;
+  text-align: center;
+  height: 50px;
+
+
+}
+
+
+.star-full{
+
+outline: 1px solid red;
+font-size: 20px;
+border: none;
+background-color: rgb(95,196,164);
+}
+
+#star{
+  display: inline-block;
+  outline: 1px solid yellow;
+display: inline-block;
+  color: white;
+
+  width: 2%;
+  height:25px;
+  background: rgb(95,196,164);
+}
+#line1{
+
+  display: inline-block;
+  outline: 1px solid blue;
+  color: white;
+  width: 49%;
+  height:25px;
+  border: none;
+  background-color:rgb(95,196,164);
+
+}
+
+#line2{
+  outline: 1px solid green;
+  display: inline-block;
+  color:white;
+  background: rgb(95,196,164);
+  width:48%;
+  height: 25px;
+}
+
+.titulo2{
+  outline: 3px solid pink;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  width: 1000px;
+  padding-right:185px;
+
+}
+
+#star02{
+  display: inline-block;
+  outline: 1px solid yellow;
+display: inline-block;
+  color: #090A0A;
+  width: 2%;
+  height:25px;
+
+}
+#line01{
+
+  display: inline-block;
+  outline: 1px solid blue;
+  color: #090A0A;
+  width: 49%;
+  height:25px;
+  border: none;
+
+
+}
+
+#line02{
+  outline: 1px solid green;
+  display: inline-block;
+  color:#090A0A;
+  width: 48.1%;
+  height: 25px;
+}
+
+.pictures{
+  /*background-color: red;*/
+  margin-top: 15px;
+
+
+
+}
+.pictu{
+  display: inline-block;
+  outline: 4px solid green;
+  width: 25%;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+
+.pictu img{
+  outline: 4px solid yellow;
+  width: 200px;
+  margin-bottom: 70px;
+  margin-left: 70px;
+}
+
+
+
+/*maquetando el about me*/
+.titulo3{
+
+outline: 1px solid red;
+width: 53%;
+font-size: 30px;
+border: none;
+background-color: rgb(95,196,164);
+margin: 0;
+padding-left: 47%;
+}
+
+#star03{
+  display: inline-block;
+  outline: 1px solid yellow;
+  display: inline-block;
+  color: white;
+  margin: 0;
+  width: 2%;
+  height:25px;
+  background: rgb(95,196,164);
+}
+#line001{
+
+  display: inline-block;
+  outline: 1px solid blue;
+  color: white;
+  width: 49%;
+  height:25px;
+  border: none;
+  background-color:rgb(95,196,164);
+
+}
+
+#line002{
+  outline: 1px solid green;
+  display: inline-block;
+  color:white;
+  background: rgb(95,196,164);
+  width:48%;
+  height: 25px;
+}
+
+.parrrafos{
+  outline: 2px solid orange;
+  background: rgb(95,196,164);
+
+
+}
+
+.parrafo1 {
+  margin-left: 8%;
+
+}
+.parrafo2 {
+  margin-right: 8%;
+}
